@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# customer Shopping Behavior Analysis
 
 An end-to-end data analytics project exploring customer shopping
 behavior using Python, SQL, PostgreSQL, Neon, and Power BI.
